@@ -1,7 +1,7 @@
 # Introduction
 
-Note that these queries go along with a blog series [1](https://www.doit.com/resources/the-bigquery-optimization-handbook-preparing-to-save/) 
-[2](https://todo)
+Note that these queries go along with a blog series [1](https:/tood1/) 
+[2](https://todo2/)
 about utilizing ClickHouse as a "cache" for BigQuery in order to save on Looker (and other associated services) costs
 written by Sayle Matthews of DoiT International.
 
